@@ -1,0 +1,76 @@
+Team,Name_Of_Player,Country,Style,Role,Matches,Innings_Batted,Runs_Scored,Bat_Avg,Bat_SR,Highest_Score,100s,50s,4s,6s
+CSK,Dhoni MS,India,Right-Handed Batsman,Wicket-Keeper,190,170,4432,42.21,137.85,84,0,23,297,209
+CSK,Rayudu A,India,Right-Handed Batsman,Opener,147,140,3300,28.7,125.95,100,1,18,278,120
+CSK,Monu Singh,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+CSK,Murali Vijay,India,Right-Handed Batsman,Opener,103,103,2587,26.4,122.84,127,2,13,243,91
+CSK,duPlessis Faf,South Africa,Right-Handed Batsman,Opener,71,64,1853,31.41,126.74,96,0,12,163,59
+CSK,Ruturaj Gaikwad,India,Right-Handed Batsman,Opener,0,0,0,0,0,0,0,0,0,0
+CSK,Suresh Raina,India,Left-Handed Batsman,Middle-Order,193,189,5368,33.34,137.11,100,1,38,493,194
+CSK,Kedar Jadhav,India,Right-Handed Batsman,Lower-Order,79,70,1079,22.96,126.49,69,0,4,92,38
+CSK,Jagadeeshan N,India,Right-Handed Batsman,Wicket-Keeper,0,0,0,0,0,0,0,0,0,0
+CSK,SaiKishore R,India,Left-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+DC,Shreyas Iyer,India,Right-Handed Batsman,Middle-Order,62,62,1681,30.56,126.96,96,0,13,149,67
+DC,Ajinkya Rahane,India,Right-Handed Batsman,Opener,140,132,3820,32.93,121.93,105,2,27,404,74
+DC,Shikhar Dhawan,India,Left-Handed Batsman,Opener,159,158,4578,33.17,124.78,97,0,37,524,96
+DC,Shimron Hetmyer,West Indies,Left-Handed Batsman,Middle-Order,5,5,90,18,123.29,75,0,1,4,7
+DC,Alex Carey,Australia,Left-Handed Batsman,Wicket-Keeper,0,0,0,0,0,0,0,0,0,0
+DC,Jason Roy,England,Right-Handed Batsman,Opener,8,8,179,29.83,133.58,91,0,1,18,8
+DC,Prithvi Shaw,India,Right-Handed Batsman,Opener,25,25,598,23.92,141.04,99,0,4,72,19
+DC,Rishabh Pant,India,Left-Handed Batsman,Wicket-Keeper,54,54,1736,36.17,162.7,128,1,11,152,94
+DC,Tushar Deshapnde,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+KXIP,KL Rahul,India,Right-Handed Batsman,Opener,67,58,1977,42.06,138.16,100,1,16,176,81
+KXIP,Chris Gayle,West Indies,Left-Handed Batsman,Opener,125,124,4484,41.14,151.03,175,6,28,369,326
+KXIP,Mandeep Singh,India,Right-Handed Batsman,Middle-Order,97,84,1529,22.16,124.71,77,0,5,160,33
+KXIP,Darshan Nalkande,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+KXIP,Karun Nair,India,Right-Handed Batsman,Middle-Order,69,63,1464,24.81,128.53,83,0,10,158,39
+KXIP,Mayank Agarwal,India,Right-Handed Batsman,Middle-Order,77,72,1270,18.41,128.54,68,0,5,118,52
+KXIP,Nicholas Pooran,West Indies,Left-Handed Batsman,Wicket-Keeper,7,6,168,28,157.01,48,0,0,9,14
+KXIP,Sarfaraz Khan,India,Right-Handed Batsman,Lower-Order,33,23,408,27.2,142.66,67,0,1,45,11
+KXIP,Simran Singh,India,Right-Handed Batsman,Wicket-Keeper,1,1,16,16,94.11,16,0,0,1,1
+KKR,Karthik Dinesh,India,Right-Handed Batsman,Wicket-Keeper,182,163,3654,27.07,129.8,97,0,18,357,101
+KKR,Eoin Morgan,England,Left-Handed Batsman,Lower-Order,52,45,854,21.35,121.13,66,0,4,72,34
+KKR,Nikhil Naik,India,Right-Handed Batsman,Wicket-Keeper,3,3,30,22,10,63.83,0,0,2,0
+KKR,M Siddharth,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+KKR,Shubhman Gill,India,Right-Handed Batsman,Opener,27,24,499,33.27,132.36,76,0,4,43,15
+KKR,Nitish Rana,India,Right-Handed Batsman,Middle-Order,46,41,1085,28.55,134.62,85,0,8,84,60
+KKR,Rinku Singh,India,Right-Handed Batsman,Middle-Order,9,7,66,11,101.54,30,0,0,5,2
+KKR,Siddhesh Lad,India,Right-Handed Batsman,Opener,1,1,15,15,115.38,15,0,0,1,1
+KKR,Rahul Tripathi,India,Right-Handed Batsman,Opener,34,33,758,26.14,137.32,93,0,4,74,27
+KKR,Tom Banton,England,Right-Handed Batsman,Opener,0,0,0,0,0,0,0,0,0,0
+MI,Rohit Sharma,India,Right-Handed Batsman,Opener,188,183,4898,31.6,130.82,109,1,36,431,194
+MI,Tare Aditya,India,Right-Handed Batsman,Wicket-Keeper,35,28,339,14.12,124.18,59,0,1,40,11
+MI,Anmolpreet Singh,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+MI,Anukul Roy,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+MI,Ishan Kishan,India,Left-Handed Batsman,Wicket-Keeper,37,33,695,21.06,130.89,62,0,3,64,34
+MI,DeKock Quinton,South Africa,Left-Handed Batsman,Wicket-Keeper,50,50,1456,30.33,131.29,108,1,10,155,54
+MI,Suryakumar Yadav,India,Right-Handed Batsman,Middle-Order,85,71,1544,28.07,131.63,72,0,7,160,47
+MI,Chris Lynn,Australia,Right-Handed Batsman,Opener,41,41,1280,33.68,140.66,93,0,10,128,63
+MI,Tiwary Saurabh,India,Left-Handed Batsman,Lower-Order,81,65,1276,28.36,119.59,61,0,7,93,45
+MI,Mohsin Khan,India,Left-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+MI,Digvijay Deshmukh,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+MI,Balwant Rai_Singh,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+RR,Jos Buttler,England,Right-Handed Batsman,Wicket-Keeper,45,45,1386,35.54,150.82,95,0,9,140,61
+RR,Manan Vohra,India,Right-Handed Batsman,Opener,49,45,1012,23.53,131.77,95,0,3,97,39
+RR,Sanju Samson,India,Right-Handed Batsman,Wicket-Keeper,93,89,2209,27.61,130.25,102,2,10,170,89
+RR,Shashank Singh,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+RR,Steve Smith,Australia,Right-Handed Batsman,Middle-Order,81,72,2022,37.44,128.95,101,1,8,180,49
+RR,Robin Uthappa,India,Right-Handed Batsman,Wicket-Keeper,177,170,4411,28.83,130.5,87,0,24,435,156
+RR,Yashasvi Jaiswal,India,Right-Handed Batsman,Opener,0,0,0,0,0,0,0,0,0,0
+RR,Anuj Rawat,India,Right-Handed Batsman,Wicket-Keeper,0,0,0,0,0,0,0,0,0,0
+RR,David Miller,South Africa,Left-Handed Batsman,Lower-Order,79,77,1850,34.26,138.78,101,1,9,126,87
+RCB,Virat Kohli,India,Right-Handed Batsman,Middle-Order,177,169,5412,37.85,131.61,113,5,36,480,190
+RCB,AB DeVilliers,South Africa,Right-Handed Batsman,Middle-Order,154,142,4395,39.95,151.24,133,3,33,357,212
+RCB,Paddikkal Devdatt,India,Left-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+RCB,GurkeertSingh Mann,India,Right-Handed Batsman,Middle-Order,33,27,440,18.33,128.65,65,0,2,47,11
+RCB,Finch Aaron,Australia,Right-Handed Batsman,Opener,75,73,1737,25.93,130.7,88,0,13,176,67
+RCB,Parthiv Patel,India,Left-Handed Batsman,Wicket-Keeper,139,137,2848,22.6,120.78,81,0,13,365,49
+RCB,Josh Philippe,Australia,Right-Handed Batsman,Wicket-Keeper,0,0,0,0,0,0,0,0,0,0
+SRH,David Warner,Australia,Left-Handed Batsman,Opener,126,126,4706,43.17,142.39,126,4,44,459,180
+SRH,Jonny Bairstow,England,Right-Handed Batsman,Wicket-Keeper,10,10,445,55.62,157.24,114,1,2,48,18
+SRH,Kane Williamson,New Zealand,Right-Handed Batsman,Middle-Order,41,41,1302,38.29,135.06,89,0,12,110,44
+SRH,Manish Pandey,India,Right-Handed Batsman,Middle-Order,130,120,2843,29.31,120.82,114,1,15,252,75
+SRH,Srivats Goswami,India,Left-Handed Batsman,Wicket-Keeper,29,19,293,16.28,100.69,52,0,1,32,3
+SRH,Widddhiman Saha,India,Right-Handed Batsman,Wicket-Keeper,120,95,1765,23.85,131.13,115,1,6,160,59
+SRH,Virat Singh,India,Left-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+SRH,Priyam Garg,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0
+SRH,Abdul Samad,India,Right-Handed Batsman,Middle-Order,0,0,0,0,0,0,0,0,0,0

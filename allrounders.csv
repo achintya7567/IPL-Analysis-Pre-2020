@@ -1,0 +1,49 @@
+Team,Name_Of_Player,Country,Style,Role,Matches,Innings_Batted,Innings_Bowled,Runs_Scored,Highest_Score,Bat_Avg,Bat_SR,100s,50s,4s,6s,Balls_Bowld,Runs_Conceded,Wickets,BBM,Eco,Bowl_Avg,Ball_SR,5w
+CSK,Watson Shane,Australia,Right-Arm Fast-Medium,Batting-Allrounder,134,130,105,3575,117,31.09,139.54,4,19,343,177,2029,2682,92,29-Apr,7.93,29.15,22.05,0
+CSK,Harbhajan Singh,India,Right-Arm OffSpinner,Bowling-Allrounder,160,88,157,829,64,15.07,138.17,0,1,79,42,3374,3967,150,18-May,7.05,26.45,22.49,"1	"
+CSK,Jadeja Ravindra,India,Left-Arm Orthodox,Bowling-Allrounder,170,128,142,1927,48,24.09,122.66,0,0,135,65,2495,3152,108,16-May,7.58,29.19,23.1,"1	"
+CSK,Chawala Piyush,India,Right-Arm LegSpinner,Bowling-Allrounder,157,81,156,584,24,11.92,111.45,0,0,54,18,3124,4072,150,17-Apr,7.82,27.15,20.83,"0	"
+CSK,Santner Mitchell,New Zealand,Left-Arm Orthodox,Bowling-Allrounder,4,2,4,32,22,32,139.13,0,0,0,3,84,94,4,13-Feb,6.71,23.5,21,0
+CSK,Bravo DJ,West Indies,Right-Arm Fast-Medium,Batting-Allrounder,134,102,131,1483,70,23.17,128.29,0,5,117,61,2585,3618,147,22-Apr,8.4,24.61,17.59,0
+CSK,Sam Curran,England,Left-Arm Fast-Medium,Bowling-Allrounder,9,8,9,95,55,23.75,172.73,0,1,13,3,198,323,10,11-Apr,9.79,32.3,19.8,0
+DC,Marcus Stoinis,Australia,Right-Arm Fast-Medium,Batting-Allrounder,29,25,24,473,52,31.53,129.95,0,1,34,18,367,569,15,15-Apr,9.3,37.93,24.47,0
+DC,Ravichandran AShwin,India,Right-Arm OffSpinner,Bowling-Allrounder,129,52,126,375,45,10.71,110.62,0,0,32,10,2924,3309,125,Apr-34,6.79,26.47,23.39,0
+DC,Keemo Paul,West Indies,Right-Arm Fast-Medium,Bowling-Allrounder,8,6,8,18,7,3.6,75,0,0,1,1,163,237,9,17-Mar,8.72,26.33,18.11,"0	"
+DC,Axar Patel,India,Left-Arm Orthodox,Bowling-Allrounder,82,63,81,796,44,18.95,126.35,0,0,47,35,1713,2129,71,21-Apr,7.46,29.99,24.13,"0	"
+KXIP,James Neesham,New Zealand,Left-Arm Fast-Medium,Batting-Allrounder,4,3,4,42,22,14,91.3,0,0,3,1,54,91,1,29-Jan,10.11,91,54,"0	"
+KXIP,Krishnappa Gowtham,India,Right-Arm OffSpinner,Bowling-Allrounder,22,17,22,144,33,12,173.49,0,0,10,10,360,478,12,12-Feb,7.97,39.83,30,0
+KXIP,Harpreet Brar,India,Left-Arm Fast,Batting-Allrounder,2,1,2,20,20,0,166.67,0,0,2,1,30,48,0,0/24,9.6,0,0,0
+KXIP,Glenn Maxwell,Australia,Right-Arm LegSpinner,Batting-Allrounder,69,68,43,1397,95,22.9,161.13,0,6,109,91,420,611,16,15-Feb,8.73,38.19,26.25,0
+KXIP,Deepak Hooda,India,Right-Arm OffSpinner,Batting-Allrounder,61,45,20,524,54,14.56,127.18,0,1,27,24,223,313,7,16-Feb,8.42,44.71,31.86,0
+KXIP,Tajinder Singh,India,Right-Arm OffSpinner,Batting-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KKR,Shivam Mavi,India,Right-Arm Fast-Medium,Bowling-Allrounder,9,4,9,13,7,4.33,86.67,0,0,1,0,168,270,5,14-Jan,9.64,54,33.6,0
+KKR,Sunil Narine,West Indies,Right-Arm OffSpinner,Bowling-Allrounder,110,57,109,771,75,17.52,168.34,0,3,93,44,2557,2845,122,19-May,6.68,23.32,20.96,1
+KKR,Andre Russel,West Indies,Right-Arm Fast,Bowling-Allrounder,64,52,61,1400,88,33.33,186.42,0,8,96,120,1039,1538,55,20-Apr,8.88,27.96,18.89,0
+KKR,Chris Green,Australia,Right-Arm OffSpinner,Batting-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MI,Hardik Pandya,India,Right-Arm Fast-Medium,Batting-Allrounder,66,61,60,1068,91,28.86,154.78,0,3,72,68,869,1313,42,20-Mar,9.07,31.26,20.69,0
+MI,Kieron Pollard,West Indies,Right-Arm Medium,Batting-Allrounder,148,135,81,2755,83,28.7,146.78,0,14,181,176,1199,1770,56,Apr-44,8.86,31.61,21.41,0
+MI,Krunal Pandya,India,Right-Arm Orthodox,Batting-Allrounder,55,48,53,891,86,25.46,146.07,0,1,86,35,944,1128,40,14-Mar,7.17,28.2,23.6,0
+MI,Sherfane Rutherford,West Indies,Right-Arm Fast-Medium,Batting-Allrounder,7,7,6,73,28,14.6,135.19,0,0,2,7,41,59,1,6-Jan,8.63,59,41,0
+RR,Ben Stokes,England,Right-Arm Fast-Medium,Batting-Allrounder,34,33,30,635,103,22.68,132.02,1,1,43,25,587,808,26,15-Mar,8.26,31.08,22.58,0
+RR,Jofra Archer,England,Right-Arm Fast,Bowling-Allrounder,21,13,21,82,27,11.71,134.43,0,0,6,4,491,616,26,15-Mar,7.53,23.69,18.88,0
+RR,Mahipal Lomror,India,Left-Arm Orthodox,Batting-Allrounder,4,3,2,28,11,14,116.67,0,0,3,0,18,27,0,0/8,9,0,0,0
+RR,Rahul Tewatia,India,Right-Arm LegSpinner,Bowling-Allrounder,20,12,18,111,24,18.5,124.72,0,0,11,3,296,354,14,18-Mar,7.18,25.29,21.14,0
+RR,Riyan Parag,India,Right-Arm LegSpinner,Batting-Allrounder,7,5,7,160,50,32,126.98,0,1,17,5,84,121,2,10-Jan,8.64,60.5,42,0
+RR,Shreyas Gopal,India,Right-Arm LegSpinner,Bowling-Allrounder,31,14,30,127,24,14.11,107.63,0,0,14,1,589,736,38,16-Apr,7.5,19.37,15.5,0
+RR,Anirudh Joshi,India,Right-Arm OffSpinner,Bowling-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RR,Tom Curran,England,Right-Arm Fast-Medium,Bowling-Allrounder,5,4,5,23,18,7.67,82.14,0,0,3,0,61,118,6,19-Feb,11.61,19.67,10.17,0
+RCB,Moeen Ali,England,Right-Arm OffSpinner,Batting-Allrounder,16,14,14,297,66,24.75,165.92,0,3,20,23,229,266,9,18-Feb,6.97,29.56,25.44,0
+RCB,Shivam Dube,India,Right-Arm Medium,Batting-Allrounder,4,4,2,40,24,13.33,121.21,0,0,1,3,10,8,0,0/3,4.8,0,0,0
+RCB,Pawan Negi,India,Left-Arm Orthodox,Bowling-Allrounder,50,35,42,365,36,14.04,126.3,0,0,27,16,716,939,34,18-Apr,7.87,27.62,21.06,0
+RCB,Washington Sundar,India,Right-Arm OffSpinner,Batting-Allrounder,21,13,20,75,35,15,141.51,0,0,5,4,354,451,16,16-Mar,7.64,28.19,22.12,0
+RCB,Isuru Udana,Sri Lanka,Right-Arm Fast-Medium,Bowling-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RCB,Chris Morris,South Africa,Right-Arm Fast-Medium,Bowling-Allrounder,61,39,61,517,82,27.21,157.62,0,2,37,27,1284,1709,69,23-Apr,7.99,24.77,18.61,0
+RCB,Pavan Deshpande,India,Right-Arm OffSpinner,Batting-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RCB,Shahbaz Ahmed,India,Left-Arm OffSpinner,Bowling-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRH,Abhishek Sharma,India,Left-Arm Orthodox,Batting-Allrounder,6,6,2,72,46,24,171.43,0,0,4,5,12,21,1,10-Jan,10.5,21,12,0
+SRH,Mohammad Nabi,Afghanistan,Right-Arm OffSpinner,Bowling-Allrounder,13,10,13,135,31,15,148.35,0,0,11,7,271,299,11,11-Apr,6.62,27.18,24.64,0
+SRH,Vijay Shankar,India,Right-Arm Medium,Batting-Allrounder,33,29,10,557,63,30.94,133.89,0,2,34,24,84,147,2,11-Jan,10.5,73.5,42,0
+SRH,Mitchell Marsh,Australia,Right-Arm Fast-Medium,Batting-Allrounder,20,14,18,225,38,18.75,114.8,0,0,9,14,315,414,20,25-Apr,7.89,20.7,15.75,0
+SRH,Sandeep Bavanka,India,Left-Arm Orthodox,Batting-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRH,Sanjay Yadav,India,Left-Arm Orthodox,Bowling-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SRH,Fabien Allen,West Indies,Left-Arm Orthodox,Batting-Allrounder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
