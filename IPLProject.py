@@ -1,8 +1,4 @@
-'''Project: IPL 2020 Player Analysis
-By- Achintya Gupta(XII-S1)
-    Aditya Pathak(XII-B)
-    Dhruv Chopra(XII-S1)
-    Dashmesh Singh Chehal(XII-H)'''
+#Project: IPL 2020 Player Analysis
 
 #modules
 import pandas as pd
